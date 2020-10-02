@@ -1,9 +1,9 @@
 "# TApp" 
 
-Die PHP-Anwendung TApp ermöglicht die Reservierung z.B. von Toiletten/Räumen, die jeweils nur von einer Person benutzt werden dürfen, die aber von unterschiedlichen Räumen, z.B. Klassenzimmern, aus benutzt bzw. reserviert werden sollen.
+Die PHP-Anwendung T-App ermöglicht die Reservierung z.B. von Toiletten/Räumen, die jeweils nur von einer Person benutzt werden dürfen, die aber von unterschiedlichen Räumen, z.B. Klassenzimmern, aus benutzt bzw. reserviert werden sollen.
 
-Die PHP-Andwendung TApp wurde von Michael Heinelt und Christoph Steer realisiert. Grundlage der Anwendung ist ein Framework von Albert Wiedemann.
-Die PHP-Anwendung TApp steht vollständig unter der General Public License v3.0. Weiter gilt CC BY-NC-SA. 
+Die PHP-Andwendung T-App wurde von Michael Heinelt und Christoph Steer realisiert. Grundlage der Anwendung ist ein Framework von Albert Wiedemann.
+Die PHP-Anwendung TA-pp steht vollständig unter der General Public License v3.0. Weiter gilt CC BY-NC-SA. 
 
 
     Copyright (C) 2020  Heinelt, Steer
